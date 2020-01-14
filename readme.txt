@@ -1,4 +1,4 @@
-# Extract all raw USB data from USB wireshark trace 
+#Extract all raw USB data from USB wireshark trace 
 
 Creates an audio file by adding a PCM WaveFormat header to the data to turn it into playable audio(TODO: other audio formats..)
 
