@@ -1,6 +1,6 @@
 # PowerShell Script - Extract raw USB data
 
-Creates an audio file by adding a PCM WaveFormat header to the extracted USB data to turn it into playable audio(TODO: other audio formats..)
+Creates an audio file by adding a PCM WaveFormat header to the extracted USB data (TODO: other audio formats..)
 
 Requires minimum:
 
